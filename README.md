@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NicoBisso
-- 👀 I’m interested in innovation and startups
+- 👀 I’m interested in Robotics, Vertical Farming, Seasteading and Metal 3D printing
 - 🌱 I’m currently learning python 
 - 📫 How to reach me: nicolas@laurusag.tech
 
